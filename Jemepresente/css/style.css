@@ -1,0 +1,49 @@
+/*css.css*/
+/*créé par Kathleen Viens*/
+/*Le 22 avril 2020*/
+
+body {
+
+   width: 300px; /*Largeur du site*/
+    background: url("../Medias/ocean.jpg") no-repeat center;
+    background-color: aqua;
+}
+img {
+    border-radius: 30px;
+}
+h1, h2{
+    color: blueviolet;
+    text-align: center;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 24px;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+p {
+    font-size: 14px;
+    text-align: justify;
+}
+table {
+    color: blue;
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    width:50%;
+}
+td {
+    border-width:1px;
+    border-style:solid;
+    width:50%;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    text-underline: brown;
+}
