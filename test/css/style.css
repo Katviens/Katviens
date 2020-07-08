@@ -1,0 +1,60 @@
+/* css.css */
+/* Créé par Kathleen Viens */
+/* Le 30 avril 2020 */
+
+
+h1, h2 {
+    color:red;
+}
+
+h1:hover{
+    font-size: 20px;
+    color: blue;
+}
+h2{
+    font-size: 15px;
+}
+
+img{
+    height: 10em;
+    width: 10em;
+}
+
+p {
+    text-align: center;
+}
+body{
+    width: 100%;
+    margin: auto;
+}
+
+body{
+    background: url("../medias/create.jpg") no-repeat center;
+}
+a:visited{
+    color:green
+}
+
+#bienvenue1{
+    color: yellow;
+}
+#bienvenue2{
+    color: hotpink;
+}
+.titresRouges{
+    color: red;
+}
+.titrebleu{
+    color: greenyellow;
+}
+img {
+    border-radius: 50%;
+}
+@font-face {
+    font-family: nomDeMaNouvellePolice;
+    src: url(../font/maPolice.ttf)
+}
+.loremIpsum {
+    font-family: nomDeMaNouvellePolice;
+    font-size: 4rem;
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a36cbe3c-307f-422d-a65e-7d58981e104c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cLoeCBMbSvUjzfr9vMD3oUfFPt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examen2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kathl\Documents\GEMME Kathleen\Kathleen\Design\Techniques d'intégration web1\GitHub\Katviens\BaseBoot" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a36cbe3c-307f-422d-a65e-7d58981e104c" name="Default Changelist" comment="" />
+      <created>1590317327584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590317327584</updated>
+      <workItem from="1590317328940" duration="2259000" />
+      <workItem from="1590847486032" duration="88000" />
+      <workItem from="1590849951538" duration="121000" />
+      <workItem from="1591138560493" duration="4232000" />
+      <workItem from="1591784193026" duration="99000" />
+      <workItem from="1591784522558" duration="6000" />
+      <workItem from="1591784554600" duration="6784000" />
+      <workItem from="1591827416145" duration="4663000" />
+      <workItem from="1592260318055" duration="1624000" />
+      <workItem from="1592432351741" duration="3801000" />
+      <workItem from="1593208188408" duration="20438000" />
+      <workItem from="1593351654304" duration="13612000" />
+      <workItem from="1593471819578" duration="9984000" />
+      <workItem from="1593862994041" duration="21000" />
+      <workItem from="1593863040713" duration="12735000" />
+      <workItem from="1594157366888" duration="651000" />
+      <workItem from="1594245624468" duration="1048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2648" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590317939437">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2648" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590317939437" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1593903630095">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1593903630095" />
+    <state x="2366" y="157" key="SettingsEditor" timestamp="1591785067942">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2366" y="157" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591785067942" />
+  </component>
+</project>

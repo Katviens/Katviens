@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfc83bce-bb82-454b-8251-5499cdcb024e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1WFwM5druPumisY0AxKzxJkwDvm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kathl\Documents\GEMME Kathleen\Kathleen\Design\Techniques d'intégration web1\GitHub\Katviens\Examen1\Examen1\Boostrap" />
+      <recent name="C:\Users\kathl\Documents\GEMME Kathleen\Kathleen\Design\Techniques d'intégration web1\GitHub\Katviens\Examen1\Examen1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc83bce-bb82-454b-8251-5499cdcb024e" name="Default Changelist" comment="" />
+      <created>1578758599109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578758599109</updated>
+      <workItem from="1578758600178" duration="32000" />
+      <workItem from="1588808663456" duration="23000" />
+      <workItem from="1588808841971" duration="36000" />
+      <workItem from="1588809069329" duration="23000" />
+      <workItem from="1588809093427" duration="1150000" />
+      <workItem from="1588811022184" duration="5360000" />
+      <workItem from="1589029865318" duration="9110000" />
+      <workItem from="1589410229463" duration="374000" />
+      <workItem from="1589410705121" duration="7822000" />
+      <workItem from="1590012773186" duration="7231000" />
+      <workItem from="1590023232120" duration="21000" />
+      <workItem from="1590023312003" duration="60000" />
+      <workItem from="1590023409561" duration="2222000" />
+      <workItem from="1590316187850" duration="1114000" />
+      <workItem from="1593353201585" duration="1533000" />
+      <workItem from="1593363579248" duration="1269000" />
+      <workItem from="1593472485363" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1590023369110">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590023369110" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588809104647">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588809104647" />
+  </component>
+</project>

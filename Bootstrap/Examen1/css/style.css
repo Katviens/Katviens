@@ -1,0 +1,18 @@
+/* style.css */
+/* Créé par Kathleen Viens */
+/* Le 6 mai 2020 */
+
+.fondOrange{
+    background-color: orangered;
+    height: 100px
+}
+hr{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f05f40;
+}
+#Photo1 {
+    background-image: url("../img/photo-ordinateur.jpg");
+}

@@ -1,0 +1,45 @@
+/**style.css**/
+/**Kathleen Viens**/
+/**Le 30 mai 2020**/
+
+
+img{
+    height: 300px;
+    width: 100%;
+    margin: 0;
+}
+
+p{
+    text-align: center;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+.bottom{
+    background-color: black;
+    border: none;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+
+i{
+    color: #f05f40;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p{
+    text-align: center;
+    font-weight: normal;
+    font-size: 20px;
+}
+h6{
+    Text-align: center;
+}
