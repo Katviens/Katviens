@@ -1,0 +1,49 @@
+/* style.css */
+/* Créé par Kathleen Viens */
+/* Le 6 juin 2020 */
+
+body{
+    background-color: #0b0b0b
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+h4{
+    color: #6c6c6c;
+}
+h6{
+    color: #6c6c6c;
+    font-weight: bold;
+}
+
+hr{
+    background: #353434;
+    height: 1px;
+    border-style: none;
+    margin: 2% 0;
+}
+
+#back{
+    background: url("../img/witcherBanniere.jpg") no-repeat center;
+    background-size: cover;
+    padding-bottom: 15rem;
+    padding-top: 15rem;
+}
+@font-face{
+    font-family: Thewitcher-jnOj;
+    src:url(../font/Thewitcher_jnOj)
+}
+#back h1, #back h2{
+    font-family: Thewitcher-jnOj;
+    color: white
+    padding-top: 10rem;
+}
+#icone{
+    font-family: Thewitcher-jnOj;
+    Color: white;
+}

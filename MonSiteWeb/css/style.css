@@ -95,8 +95,8 @@ html,body { margin:0; height: 100%;}
 
 .fondbleu{
     background-color: rgba(95, 158, 160, 0.75);
-    height: 30rem;
-    padding-top: 10rem;
+    height: 21rem;
+    padding-top: 5rem;
     padding-left: 7rem;
     padding-right: 7rem;
 }
@@ -116,6 +116,9 @@ i{
     height: 6rem;
 }
 
+.card{
+    background-color: darkturquoise;
+}
 #services{
     background-color: rgba(95, 158, 160, 0.75);
     padding-top: 2rem;
