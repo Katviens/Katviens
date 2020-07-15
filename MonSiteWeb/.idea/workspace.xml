@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Examen2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
@@ -67,7 +67,10 @@
       <workItem from="1593862994041" duration="21000" />
       <workItem from="1593863040713" duration="12735000" />
       <workItem from="1594157366888" duration="651000" />
-      <workItem from="1594245624468" duration="5102000" />
+      <workItem from="1594245624468" duration="9427000" />
+      <workItem from="1594428252710" duration="2530000" />
+      <workItem from="1594678827924" duration="931000" />
+      <workItem from="1594851165598" duration="163000" />
     </task>
     <servers />
   </component>
@@ -75,10 +78,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2648" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590317939437">
+    <state x="2648" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594430723636">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2648" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590317939437" />
+    <state x="2648" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594430723636" />
     <state x="2660" y="275" width="641" height="490" key="FileChooserDialogImpl" timestamp="1594251224817">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

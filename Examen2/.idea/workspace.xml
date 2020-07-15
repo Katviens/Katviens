@@ -32,7 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MonSiteWeb" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +79,8 @@
       <workItem from="1593351653514" duration="1681000" />
       <workItem from="1593364596160" duration="609000" />
       <workItem from="1593903636394" duration="616000" />
-      <workItem from="1594251229190" duration="626000" />
+      <workItem from="1594251229190" duration="685000" />
+      <workItem from="1594428180021" duration="893000" />
     </task>
     <servers />
   </component>
@@ -91,6 +92,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2615" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1591439758232" />
+    <state x="2541" y="264" key="FileChooserDialogImpl" timestamp="1594428248042">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2541" y="264" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1594428248042" />
     <state x="2536" y="240" key="run.anything.popup" timestamp="1591612804272">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>

@@ -78,6 +78,7 @@ html,body { margin:0; height: 100%;}
 
 #bienvenue{
     background-color: darkturquoise;
+    font-family: "Bradley Hand ITC"
 }
 
 #icone{
@@ -95,10 +96,11 @@ html,body { margin:0; height: 100%;}
 
 .fondbleu{
     background-color: rgba(95, 158, 160, 0.75);
-    height: 21rem;
+    height: 15rem;
     padding-top: 5rem;
     padding-left: 7rem;
     padding-right: 7rem;
+    font-family: "Arial Rounded MT Bold"
 }
 
 
@@ -118,6 +120,8 @@ i{
 
 .card{
     background-color: darkturquoise;
+    width: 30rem;
+
 }
 #services{
     background-color: rgba(95, 158, 160, 0.75);
